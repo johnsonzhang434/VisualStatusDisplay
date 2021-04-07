@@ -1,4 +1,5 @@
 # VisualStatusDisplay
+![plot](./image.png)
 # Requirements:
 - Node.js
 
