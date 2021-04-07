@@ -1,5 +1,5 @@
 # VisualStatusDisplay
-![plot](./image.png?raw=true "Project Cover")
+![screenshot](image.png)
 # Requirements:
 - Node.js
 
