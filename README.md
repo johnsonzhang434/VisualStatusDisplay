@@ -1,5 +1,5 @@
 # VisualStatusDisplay
-![screenshot](image.png)
+![alt text](https://github.com/johnsonzhang434/VisualStatusDisplay/blob/master/Image.png)
 # Requirements:
 - Node.js
 
